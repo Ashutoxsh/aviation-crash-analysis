@@ -72,3 +72,11 @@ aviation-crash-analysis/
 
 ### 🔹 Dashboard Page 3 – The Country of Crashes
 ![Dashboard Page 3](Screenshots/Dashboard/Page3ofdashboard.png)
+
+
+## 📄 License
+
+This project is licensed under a **Proprietary License**.  
+All rights reserved © 2025 Ashutosh Mishra.  
+See the [LICENSE](./LICENSE) file for details.
+
