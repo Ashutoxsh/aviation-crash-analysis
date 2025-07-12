@@ -10,14 +10,14 @@ The analysis focuses on crash frequency, fatality patterns, manufacturer history
 aviation-crash-analysis/
 │
 ├── sql-scripts/
-│ ├── 01_data_preparation.sql -- Data cleaning & transformation
-│ └── 02_insight_generation.sql -- Exploratory analysis & view creation
+│ ├── 01_data_preparation.sql # Data cleaning & transformation
+│ └── 02_insight_generation.sql # Exploratory analysis & view creation
 │
 ├── Analysis-findings/
-│ └── Aviation_Crash_Analysis_Report.pdf -- Summary of key insights
+│ └── Aviation_Crash_Analysis_Report.pdf # Summary of key insights
 │
 ├── Dashboard/
-│ └── Aviation_Crash_Analysis_Report.pdf -- Power BI visual report
+│ └── Aviation_Crash_Analysis_Report.pdf # Power BI visual report
 
 ---
 
