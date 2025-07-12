@@ -7,18 +7,29 @@ The analysis focuses on crash frequency, fatality patterns, manufacturer history
 
 ## 📂 Project Structure
 
+Sure — here’s the **perfectly formatted, copy-paste ready** version of your project structure for your `README.md`:
+
+---
+
+```markdown
+## 📂 Project Structure
+
+```
+
 aviation-crash-analysis/
 │
 ├── sql-scripts/
-│ ├── 01_data_preparation.sql # Data cleaning & transformation
-│ └── 02_insight_generation.sql # Exploratory analysis & view creation
+│   ├── 01\_data\_preparation.sql       # Data cleaning & transformation
+│   └── 02\_insight\_generation.sql     # Exploratory analysis & view creation
 │
 ├── Analysis-findings/
-│ └── Aviation_Crash_Analysis_Report.pdf # Summary of key insights
+│   └── Aviation\_Crash\_Analysis\_Report.pdf  # Summary of key insights
 │
 ├── Dashboard/
-│ └── Aviation_Crash_Analysis_Report.pdf # Power BI visual report
+│   └── Aviation\_Crash\_Analysis\_Report.pdf  # Power BI visual report
 
+```
+```
 ---
 
 ## 📄 Reports
