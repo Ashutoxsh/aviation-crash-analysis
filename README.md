@@ -3,13 +3,6 @@
 This project analyzes global aircraft crash data using **SQL** and **Power BI**.  
 The analysis focuses on crash frequency, fatality patterns, manufacturer history, risk phases of flight, and aircraft age distribution.
 
----
-
-## 📂 Project Structure
-
-Sure — here’s the **perfectly formatted, copy-paste ready** version of your project structure for your `README.md`:
-
----
 
 ```markdown
 ## 📂 Project Structure
